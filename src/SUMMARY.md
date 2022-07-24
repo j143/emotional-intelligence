@@ -9,7 +9,9 @@
   - [Social Formulation](./vocabulary/shameful-inconsistency.md)
   - [Time Windows](./vocabulary/time-windows.md)
   - [Que Sera Sera](./vocabulary/que-sera-sera.md)
-- [Chapter 1](./chapter_1.md)
-- [Chapter 2](./chapter_2.md)
 - [At Home](./at_home/README.md)
-  - [Being a friend to children](./chapter_3/being-a-friend-to-children.md)
+  - [Being a friend to children](./at_home/being-a-friend-to-children.md)
+- [Think Different](./think_different/README.md)
+  - [Be Original](./think_different/be-original.md)
+  - [Happy is not a Default Emotion](./think_different/happy-is-not-a-default-emotion.md)
+
