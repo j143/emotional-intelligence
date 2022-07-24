@@ -9,7 +9,7 @@
   - [Civil Distance](./vocabulary/civil-distance.md)
   - [Emotional Weather](./vocabulary/emotional-weather.md)
   - [Shameful Inconsistency](./vocabulary/shameful-inconsistency.md)
-  - [Social Formulation](./vocabulary/shameful-inconsistency.md)
+  - [Social Formulation](./vocabulary/social-formulation.md)
   - [Time Windows](./vocabulary/time-windows.md)
   - [Que Sera Sera](./vocabulary/que-sera-sera.md)
 
