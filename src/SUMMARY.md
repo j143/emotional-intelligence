@@ -30,3 +30,7 @@
 
 - [Love and its Components](./love/README.md)
   - [Resilience and Relationships](./love/resilience-and-relationships.md)
+
+---
+
+# Thanks
