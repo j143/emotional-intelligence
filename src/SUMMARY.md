@@ -16,10 +16,12 @@
 
 - [At Home](./at_home/README.md)
   - [Being a friend to children](./at_home/being-a-friend-to-children.md)
+  - [How to Talk to a Teenager](./at_home/how-to-talk-to-a-teenager.md)
 
 # Perspectives
 
 - [Think Different](./think_different/README.md)
   - [Be Original](./think_different/be-original.md)
   - [Happy is not a Default Emotion](./think_different/happy-is-not-a-default-emotion.md)
+  - [New Morning Routine](./think_different/new-morning-routine.md)
 
