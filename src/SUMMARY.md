@@ -1,7 +1,8 @@
 # Summary
 
+[Introduction](./README.md)
 
-# Introduction
+# Basics
 
 - [Vocabulary](./vocabulary/README.md)
   - [Change and Contingency](./vocabulary/change-and-contigency.md)

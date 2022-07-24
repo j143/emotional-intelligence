@@ -1,6 +1,5 @@
 # New Morning Routine
 
-
 ## Do not use morning alarm
 
 If you feel generally sad about the morning alarm sound. Then consider not using alarm. If you sleep early enough, you can wake up on time. Try experimenting with this on holidays. And push it in the working days incrementally.
